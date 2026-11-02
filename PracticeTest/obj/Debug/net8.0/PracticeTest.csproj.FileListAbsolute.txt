@@ -1,0 +1,14 @@
+C:\Users\deetukar\OneDrive - Capgemini\Desktop\Training\PracticeTest\PracticeTest\bin\Debug\net8.0\PracticeTest.exe
+C:\Users\deetukar\OneDrive - Capgemini\Desktop\Training\PracticeTest\PracticeTest\bin\Debug\net8.0\PracticeTest.deps.json
+C:\Users\deetukar\OneDrive - Capgemini\Desktop\Training\PracticeTest\PracticeTest\bin\Debug\net8.0\PracticeTest.runtimeconfig.json
+C:\Users\deetukar\OneDrive - Capgemini\Desktop\Training\PracticeTest\PracticeTest\bin\Debug\net8.0\PracticeTest.dll
+C:\Users\deetukar\OneDrive - Capgemini\Desktop\Training\PracticeTest\PracticeTest\bin\Debug\net8.0\PracticeTest.pdb
+C:\Users\deetukar\OneDrive - Capgemini\Desktop\Training\PracticeTest\PracticeTest\obj\Debug\net8.0\PracticeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deetukar\OneDrive - Capgemini\Desktop\Training\PracticeTest\PracticeTest\obj\Debug\net8.0\PracticeTest.AssemblyInfoInputs.cache
+C:\Users\deetukar\OneDrive - Capgemini\Desktop\Training\PracticeTest\PracticeTest\obj\Debug\net8.0\PracticeTest.AssemblyInfo.cs
+C:\Users\deetukar\OneDrive - Capgemini\Desktop\Training\PracticeTest\PracticeTest\obj\Debug\net8.0\PracticeTest.csproj.CoreCompileInputs.cache
+C:\Users\deetukar\OneDrive - Capgemini\Desktop\Training\PracticeTest\PracticeTest\obj\Debug\net8.0\PracticeTest.dll
+C:\Users\deetukar\OneDrive - Capgemini\Desktop\Training\PracticeTest\PracticeTest\obj\Debug\net8.0\refint\PracticeTest.dll
+C:\Users\deetukar\OneDrive - Capgemini\Desktop\Training\PracticeTest\PracticeTest\obj\Debug\net8.0\PracticeTest.pdb
+C:\Users\deetukar\OneDrive - Capgemini\Desktop\Training\PracticeTest\PracticeTest\obj\Debug\net8.0\PracticeTest.genruntimeconfig.cache
+C:\Users\deetukar\OneDrive - Capgemini\Desktop\Training\PracticeTest\PracticeTest\obj\Debug\net8.0\ref\PracticeTest.dll
